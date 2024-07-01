@@ -1,0 +1,9 @@
+{
+	"author": "NotEnoughMail",
+	"description": "Inventory Sort Button",
+
+	"versions": [10],
+	"modloaders": ["forge"],
+	"dependencies": [],
+	"incompatibilities": []
+}

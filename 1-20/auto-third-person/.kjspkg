@@ -1,0 +1,9 @@
+{
+	"author": "NotEnoughMail",
+	"description": "Automatically puts the player into third person when riding an entity"
+	
+	"versions": [10],
+	"modloaders": ["forge"],
+	"dependencies": ["mod:configjs"],
+	"incompatabilities": []
+}
