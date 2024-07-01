@@ -5,5 +5,5 @@
 	"versions": [10],
 	"modloaders": ["forge"],
 	"dependencies": ["mod:configjs"],
-	"incompatabilities": []
+	"incompatibilities": []
 }
