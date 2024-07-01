@@ -1,6 +1,6 @@
 {
 	"author": "NotEnoughMail",
-	"description": "Automatically puts the player into third person when riding an entity"
+	"description": "Automatically puts the player into third person when riding an entity",
 	
 	"versions": [10],
 	"modloaders": ["forge"],
